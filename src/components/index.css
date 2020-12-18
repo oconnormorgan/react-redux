@@ -1,0 +1,6 @@
+.nav-link {
+    position: fixed !important;
+    right: 0;
+    top: 0;
+    margin: 5px;
+}
