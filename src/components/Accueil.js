@@ -4,8 +4,8 @@ import {useDispatch, useSelector} from "react-redux";
 
 import './index.css';
 
-import fr from "../france.svg";
-import en from "../united-kingdom.svg";
+import fr from "../logos/france.svg";
+import en from "../logos/united-kingdom.svg";
 
 function Accueil() {
     const lang = useSelector(state => state.languageReducer.language)
