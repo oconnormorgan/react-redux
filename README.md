@@ -1,5 +1,7 @@
 # React-Redux-Hook
 
+Project carried out for a potential work-study contract
+
 ### Start project :
 
 ### `npm start`
