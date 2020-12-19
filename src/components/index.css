@@ -2,5 +2,23 @@
     position: fixed !important;
     right: 0;
     top: 0;
-    margin: 5px;
+    display: flex;
+    align-items: baseline;
+}
+
+.badge {
+    line-height: unset;
+}
+
+.language-icon {
+    width: 25px;
+    height: auto;
+}
+.language-selector {
+    min-height: 90px;
+}
+
+.active {
+    background: lightgray !important;
+    color: black !important;
 }
