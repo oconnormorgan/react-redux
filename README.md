@@ -2,15 +2,13 @@
 
 Project carried out for a potential work-study contract
 
-### Start project :
+## Start project :
 
+### `npm install`
 ### `npm start`
 
-## Available Scripts
+## Information
 
-In the project directory, you can run:
+- You can change page with the link on the top-right page.
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- You can changez language with the dropdown button on the same place.
